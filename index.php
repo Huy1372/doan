@@ -23,8 +23,8 @@
              
             <div id="sidebar-wrapper">
                  <img src="./pages/hn.png" with="150pt" height="150pt"/>
-                 <p >Họ tên: Phan Lê Hữu Nhân</p>
-                 <p>MSSV: DH51801342</p>
+                 <p >Họ tên: Nguyen Tan Huy</p>
+                 <p>MSSV: DH51802262</p>
                 <p>Lớp: D18-TH02</p>
                 <?php include "./pages/sideBar/mainNav.php" ?>
                 <!-- End #main-nav -->
