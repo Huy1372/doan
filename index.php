@@ -24,7 +24,11 @@
             <div id="sidebar-wrapper">
                  <img src="./pages/hn.png" with="150pt" height="150pt"/>
                  <p >Họ tên: Nguyen Tan Huy</p>
+<<<<<<< HEAD
                  <p> bbbbbb </p>
+=======
+		    <p> aaaaa</p>
+>>>>>>> 1be0d81bd9af19e1da32bd11ac19f7d282779a35
                  <p>MSSV: DH51802262</p>
                 <p>Lớp: D18-TH02</p>
                 <?php include "./pages/sideBar/mainNav.php" ?>
